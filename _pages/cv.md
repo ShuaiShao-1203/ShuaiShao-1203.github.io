@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+&nbsp;
 
 
-
-Education
+EDUCATION
 ======
 * **PhD in Mathematical Sciences (Numerical Analysis), The University of Manchester**
   * January 2025 -- Present
@@ -36,32 +36,26 @@ Education
     * Statistical Theory and Methods (96/100), Commutative Algebra (100/100),
     * Geometry of Curves (97/100), Measure Theory and Probability (95/100),
     * Group Theory (100/100), Differential Geometry (93/100), Number Theory (96/100)
-       
+&nbsp;       
 
-Work experience
+HONORS AND AWARDS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* (2025--2028)&nbsp;&nbsp;&nbsp; Dean's Doctoral Scholar Award, The University of Manchester
+  
 
 * Fall 2015: Research Assistant
   * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
 
 * Summer 2015: Research Assistant
   * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  
   
 Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
