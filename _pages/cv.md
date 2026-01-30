@@ -17,8 +17,9 @@ Education
 * **PhD in Mathematical Sciences (Numerical Analysis), The University of Manchester**
   * January 2025 -- Present
   * Supervisor: Prof. Stefan Güttel
-  * Funding: Dean's Doctoral Scholar Award
+  * Source of Funding: Dean's Doctoral Scholar Award
   * Research Interests: Numerical Linear Algebra, Rational Approximation Theory
+  * Relevant Modules: Uncertainty Quantification, Scientific Computing, Finite Element Analysis for PDEs
 &nbsp;
 
 * **MSc in Mathematical Sciences, University of Oxford**
