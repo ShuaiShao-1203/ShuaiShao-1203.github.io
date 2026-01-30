@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-TO BE CHANGED.....
+
 
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematical Sciences, The University of Manchester
+  * January 2025 -- Present
+* MSc in Mathematical Sciences, University of Oxford
+  * October 2022 -- July 2023 
+* BSc in Mathematical Sciences, University of Liverpool
+  * October 2018 -- July 2022 
 
 Work experience
 ======
