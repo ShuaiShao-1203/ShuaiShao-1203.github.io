@@ -40,7 +40,9 @@ EDUCATION
 
 HONORS AND AWARDS
 ======
-* (2025--2028)&nbsp;&nbsp;&nbsp; Dean's Doctoral Scholar Award, The University of Manchester
+* Dean's Doctoral Scholar Award, &nbsp;&nbsp; The University of Manchester, &nbsp;&nbsp; 2025-2028
+* Academic Excellence Scholarship (Top 1%) for three consecutive years, &nbsp;&nbsp; University of Liverpool, &nbsp;&nbsp; 2018-2021
+* First Prize, 33rd Chinese National High School Mathematics League (Ranked 20th in Liaoning Province), &nbsp;&nbsp; 2017
   
 
 * Fall 2015: Research Assistant
