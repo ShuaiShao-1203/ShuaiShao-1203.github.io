@@ -19,7 +19,6 @@ Education
   * Supervisor: Prof. Stefan Güttel
   * Funding: Dean's Doctoral Scholar Award
   * Research Interests: Numerical Linear Algebra, Rational Approximation Theory
-
 &nbsp;
 
 * MSc in Mathematical Sciences, University of Oxford
