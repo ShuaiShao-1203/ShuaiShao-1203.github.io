@@ -25,6 +25,7 @@ Education
   * October 2022 -- July 2023
   * Supervisor: Prof. Nick Trefethen
   * College: Lady Margaret Hall
+  * Relevant Modules: Numerical Linear Algebra, Approximation of Functions, Continuous Optimization
 
 
 * BSc in Mathematical Sciences, University of Liverpool
