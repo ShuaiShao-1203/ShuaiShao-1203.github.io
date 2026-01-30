@@ -14,23 +14,21 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematical Sciences (Numerical Analysis), The University of Manchester
+* **PhD in Mathematical Sciences (Numerical Analysis), The University of Manchester**
   * January 2025 -- Present
   * Supervisor: Prof. Stefan Güttel
   * Funding: Dean's Doctoral Scholar Award
   * Research Interests: Numerical Linear Algebra, Rational Approximation Theory
-
 &nbsp;
 
-* MSc in Mathematical Sciences, University of Oxford
+* **MSc in Mathematical Sciences, University of Oxford**
   * October 2022 -- July 2023
   * Supervisor: Prof. Nick Trefethen
   * College: Lady Margaret Hall
   * Relevant Modules: Numerical Linear Algebra, Approximation of Functions, Continuous Optimization
-
 &nbsp;
 
-* BSc in Mathematical Sciences, University of Liverpool
+* **BSc in Mathematical Sciences, University of Liverpool**
   * October 2018 -- July 2022
   * Relevant Modules Highlights:
     * Linear Algebra (98/100), Complex Analysis (94/100), Metric Spaces (95/100),
