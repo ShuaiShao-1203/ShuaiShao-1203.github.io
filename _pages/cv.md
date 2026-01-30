@@ -19,6 +19,7 @@ Education
   * Supervisor: Prof. Stefan Güttel
   * Funding: Dean's Doctoral Scholar Award
   * Research Interests: Numerical Linear Algebra, Rational Approximation Theory
+
 &nbsp;
 
 * MSc in Mathematical Sciences, University of Oxford
@@ -26,10 +27,12 @@ Education
   * Supervisor: Prof. Nick Trefethen
   * College: Lady Margaret Hall
   * Relevant Modules: Numerical Linear Algebra, Approximation of Functions, Continuous Optimization
+
 &nbsp;
 
 * BSc in Mathematical Sciences, University of Liverpool
   * October 2018 -- July 2022
+  * Relevant Modules 
 
 Work experience
 ======
