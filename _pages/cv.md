@@ -32,7 +32,12 @@ Education
 
 * BSc in Mathematical Sciences, University of Liverpool
   * October 2018 -- July 2022
-  * Relevant Modules 
+  * Relevant Modules Highlights:
+    * Linear Algebra (98/100), Complex Analysis (94/100), Metric Spaces (95/100),
+    * Statistical Theory and Methods (96/100), Commutative Algebra (100/100),
+    * Geometry of Curves (97/100), Measure Theory and Probability (95/100),
+    * Group Theory (100/100), Differential Geometry (93/100), Number Theory (96/100)
+       
 
 Work experience
 ======
