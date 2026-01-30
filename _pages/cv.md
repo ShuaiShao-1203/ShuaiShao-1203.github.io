@@ -21,15 +21,12 @@ Education
   * Research Interests: Numerical Linear Algebra, Rational Approximation Theory
 
 
-    
- * MSc in Mathematical Sciences, University of Oxford
+* MSc in Mathematical Sciences, University of Oxford
   * October 2022 -- July 2023
   * Supervisor: Prof. Nick Trefethen
   * College: Lady Margaret Hall
 
 
-
-    
 * BSc in Mathematical Sciences, University of Liverpool
   * October 2018 -- July 2022
 
