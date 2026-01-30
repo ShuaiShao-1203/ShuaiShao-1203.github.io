@@ -36,6 +36,7 @@ EDUCATION
     * Statistical Theory and Methods (96/100), Commutative Algebra (100/100),
     * Geometry of Curves (97/100), Measure Theory and Probability (95/100),
     * Group Theory (100/100), Differential Geometry (93/100), Number Theory (96/100)
+
 &nbsp;       
 
 HONORS AND AWARDS
