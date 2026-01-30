@@ -43,14 +43,8 @@ HONORS AND AWARDS
 * Dean's Doctoral Scholar Award, &nbsp; The University of Manchester, &nbsp; 2025-2028
 * Academic Excellence Scholarship (Top 1%) for three consecutive years, &nbsp; University of Liverpool, &nbsp; 2018-2021
 * First Prize, 33rd Chinese National High School Mathematics League (Ranked 20th in Liaoning Province), &nbsp; 2017
-  
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-* Skill 3
+
+&nbsp;   
 
 Publications
 ======
