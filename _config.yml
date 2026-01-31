@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shuai Shao"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "He/him"  
+  bio              : "PhD student in Computational Mathematics"
+  location         : "Manchester, United Kingdom"
+  employer         : "The University of Manchester"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shuai.shao-7@postgrad.manchester.ac.uk" 
 
   # Academic websites
   academia         : # URL
