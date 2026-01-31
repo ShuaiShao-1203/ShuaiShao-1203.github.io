@@ -49,22 +49,17 @@ HONORS AND AWARDS
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Stefan Güttel and Shuai Shao, Concentrated real-pole uniform-in-time approximation of the matrix exponential. [arXiv] (https://arxiv.org/abs/2511.21858v1)
+
+&nbsp;   
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 27th Conference of the International Linear Algebra Society (ILAS), Virginia Tech, VA, USA Role: Invited speaker, Minisymposium: Rational Approximation and Interpolation, May 2026 (Upcoming)
+
+&nbsp;   
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching assistant for MATH19842: Vectors and Probability, The University of Manchester, 2025-2026
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
