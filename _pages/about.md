@@ -10,5 +10,5 @@ redirect_from:
 
 **Shuai Shao**
 ------
-I am a PhD student in Mathematics at the University of Manchester, supervised by Prof. Stefan Güttel. I completed my MSc in Mathematics at the University of Oxford and my BSc in Mathematics at the University of Liverpool.
+I am a fully-funded PhD student in Mathematics at the University of Manchester, supervised by Prof. Stefan Güttel. I completed my MSc in Mathematics at the University of Oxford and my BSc in Mathematics at the University of Liverpool.
 
