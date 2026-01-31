@@ -55,8 +55,8 @@ Publications
   
 Talks
 ======
-* 27th Conference of the International Linear Algebra Society (ILAS), Virginia Tech, VA, USA
-  * Role: Invited speaker, Minisymposium: Rational Approximation and Interpolation, May 2026 (Upcoming)
+* 27th Conference of the International Linear Algebra Society (ILAS), Virginia Tech, VA, USA, May 2026 (Upcoming)
+  * Role: Invited speaker, Minisymposium: Rational Approximation and Interpolation
 
 &nbsp;   
   
