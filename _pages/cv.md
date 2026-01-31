@@ -50,7 +50,7 @@ HONORS AND AWARDS
 Publications
 ======
 * Stefan Güttel and Shuai Shao, Concentrated real-pole uniform-in-time approximation of the matrix exponential.
-  <a href="https://arxiv.org/abs/2511.21858v1">arXiv</a>
+  <a href="https://arxiv.org/abs/2511.21858v1">[arXiv]</a>
 
 &nbsp;   
   
