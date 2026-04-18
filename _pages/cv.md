@@ -44,24 +44,3 @@ HONORS AND AWARDS
 * Dean's Doctoral Scholar Award, The University of Manchester, 2025-2028
 * Academic Excellence Scholarship (Top 1%) for three consecutive years, University of Liverpool, 2018-2021
 * First Prize, 33rd Chinese National High School Mathematics League (Ranked 20th in Liaoning Province), 2017
-
-&nbsp;   
-
-Publications
-======
-* Stefan Güttel and Shuai Shao, Concentrated real-pole uniform-in-time approximation of the matrix exponential.
-  <a href="https://arxiv.org/abs/2511.21858v1">[arXiv]</a>
-
-&nbsp;   
-  
-Talks
-======
-* 27th Conference of the International Linear Algebra Society (ILAS), Virginia Tech, VA, USA, May 2026 (Upcoming)
-  * Role: Invited speaker, Minisymposium: Rational Approximation and Interpolation (MS 25)
-
-&nbsp;   
-  
-Teaching
-======
-* Teaching assistant for MATH19842: Vectors and Probability, The University of Manchester, 2025-2026
-  
